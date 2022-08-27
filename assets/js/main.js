@@ -16,7 +16,7 @@ closeNav.addEventListener("click", function(){
 	bodyOverlay.classList.remove('active')
 });
 
-//Split Screen Portfolio
+//Screen Portfolio
 
 let previews = {};
 document.querySelectorAll(".portfolio-previews > div").forEach(
